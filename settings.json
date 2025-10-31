@@ -1,0 +1,46 @@
+{
+  "workbench.iconTheme": "symbols",
+  "dart.flutterSdkPath": "/Users/josedavid/Development/flutter",
+  "editor.formatOnSave": true,
+  "editor.wordWrapColumn": 120,
+  "dart.devToolsLocation": {
+    "default": "beside",
+    "inspector": "sidebar"
+  },
+  "git.confirmSync": false,
+  "workbench.colorTheme": "Solarized-Palenight",
+  "editor.cursorBlinking": "expand",
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.wordWrap": "on",
+  "editor.fontFamily": "JetBrains Mono, Menlo, monospace",
+  "editor.fontLigatures": true,
+  "terminal.integrated.fontLigatures.enabled": true,
+  "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
+  "editor.semanticHighlighting.enabled": false,
+  "editor.tokenColorCustomizations": {
+    "textMateRules": [
+      {
+        "scope": [
+          "variable.other",
+          "variable.other.readwrite",
+          "variable.other.source.dart",
+          "source.dart"
+        ],
+        "settings": { "foreground": "#B58900" } // variables locales (amarillo Solarized)
+      },
+      {
+        "scope": ["support.class.dart"],
+        "settings": { "foreground": "#12eded" } // puntuación
+      }
+    ]
+  },
+  "workbench.productIconTheme": "fluent-icons",
+  "editor.guides.bracketPairs": "active",
+  "window.commandCenter": true,
+  "editor.minimap.enabled": false,
+  "terminal.integrated.suggest.enabled": true,
+  "editor.lineNumbers": "on",
+  "workbench.secondarySideBar.defaultVisibility": "hidden",
+  "diffEditor.renderSideBySide": true,
+  "diffEditor.ignoreTrimWhitespace": true
+}
